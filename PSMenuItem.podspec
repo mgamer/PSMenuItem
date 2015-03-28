@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   }
   s.author = 'Peter Steinberger', 'steipete@gmail.com'
   s.source = {
-    :git => 'https://github.com/steipete/PSMenuItem.git',
+    :git => 'https://github.com/mgamer/PSMenuItem.git',
     :tag => s.version.to_s
   }
   s.platform = :ios, '4.3'
